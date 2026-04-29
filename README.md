@@ -2,7 +2,7 @@
 
 > Open Public Domain Exercise Dataset in JSON format
 
-## Motivation
+### Motivation
 
 I'm someone who is quite into their fitness, and have tried using many different fitness apps for building and tracking custom workouts.
 
